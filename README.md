@@ -1,2 +1,7 @@
 # Portfolio
 This is the beginning development of my personal portfolio. It is a work in progress. 
+![image](https://user-images.githubusercontent.com/90878901/143727835-57f87730-f10d-42d0-8971-62f092ed4546.png)
+![image](https://user-images.githubusercontent.com/90878901/143727862-eb551bc8-1c55-4564-94c2-0601e0a411b7.png)
+![image](https://user-images.githubusercontent.com/90878901/143727873-3e249b72-c8b2-404b-ba76-9b269002833e.png)
+![image](https://user-images.githubusercontent.com/90878901/143727888-d826b291-9073-4080-a45e-b025f796dd4d.png)
+![image](https://user-images.githubusercontent.com/90878901/143727904-f874f035-d4c2-4266-b0da-19c1d2b3f8f3.png)
